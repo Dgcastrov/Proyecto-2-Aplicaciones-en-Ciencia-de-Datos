@@ -1,0 +1,21 @@
+Pais,Code,asequibilidad,personas,costo,pobreza,alimentos
+Argentina,ARG,1,1,1,0,0
+Bolivia,BOL,8,8,8,8,1
+Brasil,BRA,8,8,8,8,1
+Chile,CHL,8,8,8,4,1
+Colombia,COL,8,8,8,8,1
+Costa Rica,CRI,8,8,8,8,1
+Cuba,CUB,0,0,0,0,0
+República Dominicana,DOM,8,8,8,8,1
+Ecuador,ECU,8,8,8,8,1
+El Salvador,SLV,0,0,0,6,0
+Guatemala,GTM,8,8,8,1,1
+Haití,HTI,8,8,8,0,0
+Honduras,HND,8,8,8,5,1
+México,MEX,8,8,8,4,1
+Nicaragua,NIC,7,7,7,0,1
+Panamá,PAN,8,8,8,6,1
+Paraguay,PRY,8,8,8,8,1
+Perú,PER,8,8,8,8,1
+Uruguay,URY,8,8,8,8,1
+Venezuela,VEN,0,0,0,0,0
